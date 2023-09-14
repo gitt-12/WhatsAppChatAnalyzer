@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+emoji
+regex
+wordcloud
+scikit-learn
+keras
+tensorflow
+
+#-e .
